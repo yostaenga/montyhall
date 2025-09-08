@@ -1,0 +1,12 @@
+Package: montyhall
+Title: Simulate the Monty Hall Problem with Multiple Strategies
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yosta", "Enga", , "yostaenga@asu.edu", role = c("aut", "cre"))
+Description: A complete simulation engine for the Monty Hall Problem, inspired by the classic game show "Let's Make a Deal". This package includes modular functions for creating games, simulating player choices (stay or switch), managing host behavior, and calculating outcomes.Users can explore probability theory, run experiments, and analyze strategic decision-making by simulating thousands of games. Useful for teaching, demonstrations, or conducting custom variations of the Monty Hall Problem.
+Depends: 
+   dplyr
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
